@@ -1,0 +1,16 @@
+{
+  "name": "lego-generator",
+  "version": "1.0.2-alpha.0",
+  "description": "",
+  "main": "./app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "yeoman-generator": "^3.1.1"
+  },
+  "keywords": [],
+  "author": "Wu-Yao wuyao0312@163.com",
+  "license": "ISC",
+  "gitHead": "1455742dc593659deaeec37222b530b2c3e0bcb5"
+}

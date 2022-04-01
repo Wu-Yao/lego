@@ -1,0 +1,27 @@
+{
+  "name": "lego-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "lego": "./bin/init"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wu-Yao wuyao0312@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "chalk": "^4.1.0",
+    "commander": "^9.0.0",
+    "fs-extra": "^10.0.1",
+    "lego-generator": "^1.0.2-alpha.0",
+    "osenv": "^0.1.5",
+    "semver": "^7.3.5",
+    "validate-npm-package-name": "^3.0.0",
+    "yeoman-environment": "^3.9.1"
+  },
+  "gitHead": "49b60e0dd9c253a4958bf86f5040b710de2b5107"
+}
