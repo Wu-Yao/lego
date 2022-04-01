@@ -17,7 +17,7 @@
     "chalk": "^4.1.0",
     "commander": "^9.0.0",
     "fs-extra": "^10.0.1",
-    "lego-generator": "^1.0.2-alpha.0",
+    "lego-generator": "^1.0.0",
     "osenv": "^0.1.5",
     "semver": "^7.3.5",
     "validate-npm-package-name": "^3.0.0",
