@@ -94,7 +94,7 @@ function createApp(name, verbose, version, template, useYarn, usePnp) {
 }
 
 function run(root) {
-    const allDependencies = ['react', 'react-dom', 'react-scripts', 'cra-template'];
+    const allDependencies = ['react', 'react-dom', 'lego-preset'];
     install(root, allDependencies)
         .then(async () => {
             checkNodeVersion('react-scripts')

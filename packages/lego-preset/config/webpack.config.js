@@ -16,7 +16,6 @@ module.exports = function (webpackEnv) {
 
     return {
         // target: ['browserslist'],
-        stats: 'errors-warnings',
         mode: isEnvProduction ? 'production' : isEnvDevelopment && 'development',
         bail: isEnvProduction,
         devtool: isEnvProduction ? false : isEnvDevelopment && 'cheap-module-source-map',
